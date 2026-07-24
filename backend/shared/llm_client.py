@@ -46,7 +46,7 @@ RESPONSE_SCHEMA = {
 def extract_skills(text: str, doc_type: str) -> dict:
     prompt = EXTRACTION_PROMPT.format(doc_type=doc_type, text=text)
     response = client.models.generate_content(
-        model="gemini-2.5-flash",
+        model="gemini-3.5-flash",
         contents=prompt,
         config=types.GenerateContentConfig(
             response_mime_type="application/json",

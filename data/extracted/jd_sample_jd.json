@@ -1,0 +1,74 @@
+{
+  "source_type": "jd",
+  "source_file": "sample_jd.docx",
+  "company": "TechNova Solutions",
+  "role": "Senior Backend Engineer",
+  "skills": [
+    {
+      "skill_name": "Python",
+      "category_code": "COD",
+      "evidence": "Strong proficiency in Python and object-oriented design.",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Object-oriented design",
+      "category_code": "OOD",
+      "evidence": "Strong proficiency in Python and object-oriented design.",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Data structures and algorithms",
+      "category_code": "DSA",
+      "evidence": "Deep understanding of data structures and algorithms.",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "AWS",
+      "category_code": "CLOUD",
+      "evidence": "Build and manage cloud infrastructure on AWS (EC2, Lambda, S3, RDS).",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "SQL",
+      "category_code": "SQL",
+      "evidence": "Write efficient SQL queries and optimise PostgreSQL databases.",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "CI/CD",
+      "category_code": "SWE",
+      "evidence": "Implement CI/CD pipelines using GitHub Actions and Docker.",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Communication",
+      "category_code": "COMM",
+      "evidence": "Excellent communication and teamwork skills.",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "System Design",
+      "category_code": "SYSD",
+      "evidence": "Experience with microservices architecture and system design.",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Networking",
+      "category_code": "NETW",
+      "evidence": "Knowledge of networking fundamentals (TCP/IP, HTTP, DNS).",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Linux",
+      "category_code": "OS",
+      "evidence": "Understanding of operating system concepts (Linux).",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Machine Learning",
+      "category_code": "AI",
+      "evidence": "Experience with machine learning or AI/ML pipelines.",
+      "confidence": "high"
+    }
+  ]
+}
